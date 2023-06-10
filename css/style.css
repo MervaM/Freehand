@@ -90,17 +90,6 @@ html, body {
     color: #3DB370;
     
 }
-/* .front__card img {
-    position: relative;
-}
-.front__card {
-    border: 1px solid rgba(21, 101, 216, 0.1);
-    border-radius: 16px;
-    position: absolute;
-    width: 64px;
-    height: 64px;
-} */
-
 /* footer */
 .footer {
     background: #16133D;
@@ -120,10 +109,6 @@ html, body {
     display: flex;
     gap: 10px;
 }
-/* .list__item {
-    
-
-} */
 .list__link {
     display: flex;
     justify-content: center;
